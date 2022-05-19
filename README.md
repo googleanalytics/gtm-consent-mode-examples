@@ -10,8 +10,8 @@ A reference implementation meant to demonstrate how Tag Manager triggers and var
 
 For more information on Consent Mode, please see the following articles:
 
-[Consent Mode (Google Ads)](https://support.google.com/google-ads/answer/10000067?hl=en)
-[Consent Mode (Google Analytics)](https://support.google.com/analytics/answer/9976101?hl=en)
-[Consent Mode overview (Developer Guide)](https://developers.google.com/tag-platform/devguides/privacy#consent_mode_overview)
-[Manage Consent Settings (Developer Guide)](https://developers.google.com/tag-platform/devguides/consent)
-[Create a Consent Template (Developer Guide)](https://developers.google.com/tag-platform/tag-manager/templates/consent-apis)
+[Consent Mode (Google Ads)](https://support.google.com/google-ads/answer/10000067?hl=en)  
+[Consent Mode (Google Analytics)](https://support.google.com/analytics/answer/9976101?hl=en)  
+[Consent Mode overview (Developer Guide)](https://developers.google.com/tag-platform/devguides/privacy#consent_mode_overview)  
+[Manage Consent Settings (Developer Guide)](https://developers.google.com/tag-platform/devguides/consent)  
+[Create a Consent Template (Developer Guide)](https://developers.google.com/tag-platform/tag-manager/templates/consent-apis)  
