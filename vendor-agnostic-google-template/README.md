@@ -28,15 +28,15 @@ Use Google’s Tag Assistant tool to verify your implementation after it is comp
 1. Open an Incognito window in your browser, and navigate to Tag Manager.
 1. In Tag Manager, click Preview in the top right corner
 
-![Tag Manager Preview](/gtm_preview_screen.png)
+![Tag Manager Preview](screenshots/gtm_preview_screen.png)
 
 1. When the Tag Assistant tool opens, enter the URL for your website or development environment. Do not interact with the consent banner.
 
-![Tag Assistant Connect](/ta_connect_screen.png)
+![Tag Assistant Connect](screenshots/ta_connect_screen.png)
 
 1. After the page loads, click the Consent event immediately after Consent Initialization on the left sidebar of your Tag Assistant window. In the content pane on the right half of the page, choose the Consent tab.
 
-![Consent Tab](/consent_tab_screen.png)
+![Consent Tab](screenshots/consent_tab_screen.png)
 
 1. Verify that the consent states are set according to the settings you provided in the consent template configuration.
 1. On the left sidebar of Tag Assistant, navigate to the first event where Google tags are set to fire. Switch to the Consent tab.
@@ -49,7 +49,7 @@ Use Google’s Tag Assistant tool to verify your implementation after it is comp
 
 **Issue:** The Consent tab shows “Consent not configured”
 
-![Consent Not Configured](/not_configured_screen.png)
+![Consent Not Configured](screenshots/not_configured_screen.png)
 
 **Solution:** Ensure that you have configured one copy of the template using the Default command and Default settings (step 2 above), and that you have set it up to fire on the Consent Initialization event.
 
