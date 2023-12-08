@@ -481,7 +481,6 @@ ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 const setDefaultConsentState = require('setDefaultConsentState');
 const updateConsentState = require('updateConsentState');
 const gtagSet = require('gtagSet');
-const logToConsole = require('logToConsole');
 const splitInput = (input) => {
   return input.split(',')
     .map(entry => entry.trim())
